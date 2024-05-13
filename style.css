@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(to right, rgb(255, 0, 191), rgb(0, 255, 200));
+
+
+}
+
+.wel {
+    font-size: 300%;
+
+}
+
+.pr {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 208, 0);
+    font-size: 150%;
+}
+
+.frtext {
+    color: black;
+}
+
+.hire {
+    text-decoration: none;
+    border: 2px dashed black;
+    border-radius: 11px;
+    background-color: red;
+    color: white;
+    padding: 8px;
+
+}
+
+.hire:hover {
+    color: red;
+    background-color: white;
+}
+
+.fblock {
+    display: flex;
+}
+
+.widthselector {
+    width: 50%;
+    padding: 2%;
+}
+
+.widthselector img {
+    width: 85%;
+
+}
